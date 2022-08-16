@@ -3,9 +3,9 @@
     Lanches<span style="color: #ff033c">Delivery</span>
   </center>
 </h1>
-src\assets\header
+
 <center>
-  <img src="./sec/assets/header/store.png" width="60"></img>
+  <img src="./github/store.png" width="60"></img>
 
   <p>Aplicação de delivery para fastFodd, feita em Angular!</p>
 
@@ -25,7 +25,7 @@ src\assets\header
   
   ## :desktop_computer: Desktop
 
-  <img src="./github/desktop.png" width="350"></img>
+  <img src="./github/lanches.png" width="350"></img>
 
   Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
 
