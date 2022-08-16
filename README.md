@@ -7,7 +7,7 @@
 <center>
   <img src="./github/pizza.svg" width="60"></img>
 
-  <p>Aplicação de delivery para pizzarias, feita em Angular!</p>
+  <p>Aplicação de delivery cvvpara pizzarias, feita em Angular!</p>
 
   Acessar: <a href=" https://ridrirox.vercel.app"> https://pizzadelivery.vercel.app</a>
 
