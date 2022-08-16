@@ -1,15 +1,15 @@
 <h1>
   <center>
-    Pizza<span style="color: #ff033c">Delivery</span>
+    Lanches<span style="color: #ff033c">Delivery</span>
   </center>
 </h1>
-
+src\assets\header
 <center>
-  <img src="./github/pizza.svg" width="60"></img>
+  <img src="./sec/assets/header/store.png" width="60"></img>
 
-  <p>Aplicação de delivery cvvpara pizzarias, feita em Angular!</p>
+  <p>Aplicação de delivery para fastFodd, feita em Angular!</p>
 
-  Acessar: <a href=" https://ridrirox.vercel.app"> https://pizzadelivery.vercel.app</a>
+  Acessar: <a href=" https://ridrirox.vercel.app"> https://lanches-seven.vercel.app/</a>
 
 
 ## :hammer: **Tecnologias Usadas** :wrench:
