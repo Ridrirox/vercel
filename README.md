@@ -9,7 +9,7 @@
 
   <p>Aplicação de delivery para pizzarias, feita em Angular!</p>
 
-  Acessar: <a href=" https://pizzadelivery.vercel.app"> https://pizzadelivery.vercel.app</a>
+  Acessar: <a href=" https://ridrirox.vercel.app"> https://pizzadelivery.vercel.app</a>
 
 
 ## :hammer: **Tecnologias Usadas** :wrench:
