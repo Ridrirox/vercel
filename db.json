@@ -1,14 +1,9 @@
+
+
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+    "posts": [
+      {"id": 1, "name": "Rodrigo", "price": 13.13,"ingredients": "Calabresa, muçarela e presunto.",
+      "img": "https://lh3.googleusercontent.com/pw/ACtC-3dA2byIGysDluhgN_l-uEgmy_zSvQ4KK2YMdW-OrEVdS5qr40XgSMFKYceZTVrzVq8iSj_tOA0PVD11uOJeiwnpdo-1AgrKap1Wd5iM1cB06dIzBMB6mbThxlcPm588F3eTblo5cNYBQrGlb3XjevEb=w736-h552-no?authuser=0"
+      }
+    ]
+ }  
