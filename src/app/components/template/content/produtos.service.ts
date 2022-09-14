@@ -12,7 +12,9 @@ export class ProdutosService {
    //base dados json - api google
    
  //--private readonly API = 'https//parallelum.com.br/fipe/api/v1/carros/marcas';
-  private readonly API = 'https://script.google.com/macros/s/AKfycbz4bzrd6iGG8G9J1hTsvsjDk850Rpe97iQk9ciMk2-mTdRoENJO/exec';
+          //minha api
+          private readonly API = 'https://script.google.com/macros/s/AKfycbyyJ6II6Mmn3ctOwa2pqj4TPt0YOoJh3f8TduI8ftc5B3as-BMz/exec';
+  /////---private readonly API = 'https://script.google.com/macros/s/AKfycbz4bzrd6iGG8G9J1hTsvsjDk850Rpe97iQk9ciMk2-mTdRoENJO/exec';
 
   constructor(private http: HttpClient) { }
 
