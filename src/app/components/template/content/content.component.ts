@@ -31,7 +31,7 @@ export class ContentComponent implements OnInit {
     this.pizzasArray.forEach((value)=> {
       if(value.id === id){
         this.pedidoService.getPedidoValues(value.name, value.price);
-        this.pedidoService.openSnackBar('Lanche adicionada!');
+        this.pedidoService.openSnackBar('Lanche adicionado!');
       }
     });
   }
