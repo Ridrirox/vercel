@@ -24,7 +24,7 @@ export class PedidoFormComponent implements OnInit {
     let texto = `*Nome:* ${this.nome};\n*Bairro:* ${this.bairro};\n*Rua:* ${this.rua};\n*Número:* ${this.numero};\n*Complemento:* ${this.complemento};\n*Troco para:* ${this.troco}\n\n`;
     let textoURI = encodeURIComponent(texto);
 
-    window.open(`https://api.whatsapp.com/send?phone=5541997144462&text=${textoURI}${this.pedidoService.pedidoURI}`);
+    window.open(`https://api.whatsapp.com/send?phone=554199910-1536&text=${textoURI}${this.pedidoService.pedidoURI}`);
     
   }
 }
