@@ -23,8 +23,11 @@ export class PedidoFormComponent implements OnInit {
   concluirPedido(): void {
     let texto = `*Nome:* ${this.nome};\n*Bairro:* ${this.bairro};\n*Rua:* ${this.rua};\n*Número:* ${this.numero};\n*Complemento:* ${this.complemento};\n*Observacao:* ${this.troco}\n\n`;
     let textoURI = encodeURIComponent(texto);
+    
+    //isabele celular- 554199910-1536
+    //Cleonir celular- 554199652-1663
 
-    window.open(`https://api.whatsapp.com/send?phone=554199910-1536&text=${textoURI}${this.pedidoService.pedidoURI}`);
+    window.open(`https://api.whatsapp.com/send?phone=554199652-1663&text=${textoURI}${this.pedidoService.pedidoURI}`);
     
   }
 }
