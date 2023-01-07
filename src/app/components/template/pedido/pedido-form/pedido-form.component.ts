@@ -27,7 +27,7 @@ export class PedidoFormComponent implements OnInit {
     //isabele celular- 554199910-1536
     //Cleonir celular- 554199652-1663
 
-    window.open(`https://api.whatsapp.com/send?phone=554199910-1536&text=${textoURI}${this.pedidoService.pedidoURI}`);
+    window.open(`https://api.whatsapp.com/send?phone=554199652-16636&text=${textoURI}${this.pedidoService.pedidoURI}`);
     
   }
 }
